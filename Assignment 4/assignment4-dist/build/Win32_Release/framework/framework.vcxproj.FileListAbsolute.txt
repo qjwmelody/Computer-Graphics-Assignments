@@ -1,0 +1,1 @@
+C:\Users\little_bing\MyCourses\Computer Graphics\Assignment 4\assignment4-dist\build\Win32_Release\framework\framework.lib
